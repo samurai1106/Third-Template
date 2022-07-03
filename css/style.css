@@ -519,7 +519,8 @@ header .container nav li:hover a {
         display: none;
     } 
     .portfolio .portfolio-content .content .text {
-        height: 25%
+        height: 25%;
+        padding: 0 20px; 
     }
 }
 @media (max-width: 768px) {
